@@ -1,0 +1,33 @@
+ /* font-family: 'Bitter', serif;*/
+html,
+body{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: 'Asap', sans-serif;
+
+
+}
+.header-wrapper{
+
+    /*background: color #3ebfff;*/
+    background-image: url('../images/desktop/image-header.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:0 -46px;
+    height: 800px;
+  
+
+}
+/*GLOBAL STYLES */
+.container{
+    width: 1140px;
+    margin: auto;
+    align-items: center;
+
+}
+.row{
+    display: flex;
+}
